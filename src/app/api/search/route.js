@@ -30,6 +30,7 @@ export async function POST(req) {
         // Execute the web search using the provided query
         const searchResults = await tool.invoke({
             input: input,
+            engine: "google"
         });
         console.log("Search results:", JSON.stringify(searchResults, null, 2));
         
