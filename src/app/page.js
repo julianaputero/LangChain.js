@@ -31,7 +31,7 @@ export default function Home() {
    * @returns {Promise<void>} - A promise that resolves when the request is completed
   */
   const handleSubmit = async (e) => {
-    e.preventDefault(); // Evitar recarga de página
+    e.preventDefault(); 
     setLoading(true);
     setDisabled(true);
 
