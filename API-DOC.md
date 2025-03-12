@@ -28,13 +28,13 @@
 - **If the status is `400`**:  
   ```json
   {
-    "response": "generated response"
+    "error": "Input cannot be empty."
   }
   ```
 - **If the status is `500`**:  
 ```json
   {
-    "response": "generated response"
+    "error": "Error processing query: [message]"
   }
 ```
 
