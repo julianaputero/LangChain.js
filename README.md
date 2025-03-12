@@ -79,4 +79,6 @@ Redis is a powerful in-memory data store that’s often used for caching, sessio
 
 ## LINKS:
 1. https://www.loom.com/share/f193568b5eb84b7fa0f9ded1ecb5e25d
-2. 
+2. https://www.loom.com/share/a6b879074ba641a0bd5d7e65b46bc2c0
+3. https://www.loom.com/share/8b764cdec0264134b886a4758011898a
+4. https://www.loom.com/share/ebe373b7206c4269b3b431c3449dad9a
